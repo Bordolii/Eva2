@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Evaluacion2">
         <activity
+            android:name=".modelo.Ticket"
+            android:exported="false" />
+        <activity
             android:name=".SeleccionaProductosActivity"
             android:exported="false" />
         <activity
