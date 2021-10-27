@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Evaluacion2</string>
+    <string name="sacarticket">Sacar Ticket</string>
+    <string name="resultado"></string>
+    <string-array name="Cantidad">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="Cafe">
+        <item>Selecciona...</item>
+        <item>Nescafe</item>
+        <item>Gold</item>
+        <item>Monterrey</item>
+    </string-array>
+
+    <string-array name="Te">
+        <item>Selecciona...</item>
+        <item>Manzanilla</item>
+        <item>Menta</item>
+        <item>Negro</item>
+    </string-array>
+
+    <string-array name="Waffle">
+        <item>Selecciona...</item>
+        <item>Clasico</item>
+        <item>Miel</item>
+        <item>Manjar</item>
+    </string-array>
+
+    <string-array name="Muffin">
+        <item>Selecciona...</item>
+        <item>Chocolate</item>
+        <item>Avellana</item>
+        <item>Relleno manjar</item>
+    </string-array>
+
+    <string-array name="Sandwich">
+        <item>Selecciona...</item>
+        <item>Jamon/queso</item>
+        <item>Lechuga/tomate</item>
+    </string-array>
+
+</resources>
